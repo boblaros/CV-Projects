@@ -1,0 +1,15 @@
+# Don't track data
+Data/
+
+# Model weights
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter stuff
+.ipynb_checkpoints/
+
+# macOS junk
+.DS_Store
